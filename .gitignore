@@ -1,0 +1,19 @@
+
+# Entorno virtual de Python
+.venv/
+venv/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales de Jupyter
+.ipynb_checkpoints/
+
+# Variables de entorno y credenciales
+.env
+.env.*
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
